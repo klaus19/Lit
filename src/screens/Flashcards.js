@@ -1,7 +1,8 @@
 import React from 'react';
 import {View} from 'react-native';
 
-const App = () => {
+const Flash = () => {
   return <View />;
 };
-export default App;
+
+export default Flash;
